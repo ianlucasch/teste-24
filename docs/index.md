@@ -1,0 +1,3 @@
+# Documentação
+
+::: src.contrato.Vendas
