@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: vendas_source
+    schema: public
+    description: Dados que vieram da API de CRM
+    tables:
+      - name: vendas
